@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Audio files and datasets
+*.wav
+*.mp3
+*.flac
+*.csv
+
+# Feature data and models
+*.pkl
+*.h5
+*.joblib
+
+# Extracted feature folders
+Extracted Features/
+A_data/
+A_data_chunked/
+Models/Feature extraction/features_combined*.csv
+
+
